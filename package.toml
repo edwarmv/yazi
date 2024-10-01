@@ -1,0 +1,5 @@
+[plugin]
+deps = [{ use = "ourongxing/fast-enter", rev = "dd49812" }]
+
+[flavor]
+deps = []
