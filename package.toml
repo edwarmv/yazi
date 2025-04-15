@@ -1,16 +1,16 @@
 [[plugin.deps]]
 use = "ourongxing/fast-enter"
-rev = "1c4caeb"
+rev = "738356f"
 hash = "b209b5db91df69bdc6a4656cb8276cd9"
 
 [[plugin.deps]]
 use = "boydaihungst/mediainfo"
-rev = "f565c5a"
-hash = "15d0dbb4e9ba84eb1f2dbb8e9e249bf6"
+rev = "436cb5f"
+hash = "144c0ac7a449fcab4e78e942eb41702c"
 
 [[plugin.deps]]
 use = "orhnk/system-clipboard"
-rev = "7775a80"
+rev = "efb8f03"
 hash = "9b8f2573da54334b04747e51556040cc"
 
 [flavor]
