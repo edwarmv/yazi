@@ -1,16 +1,12 @@
-[[manager.prepend_keymap]]
-on = ["l"]
-run = "plugin fast-enter"
-desc = "Enter the subfolder faster, or open the file directly"
-[[manager.prepend_keymap]]
+[[mgr.prepend_keymap]]
 on = "<C-y>"
 run = ["plugin system-clipboard"]
 desc = "Copy to system clipboard"
-[[manager.prepend_keymap]]
+[[mgr.prepend_keymap]]
 on = "<C-p>"
 run = "shell 'cb paste' --block"
 desc = "Paste from system clipboard"
-[[manager.prepend_keymap]]
+[[mgr.prepend_keymap]]
 on = ["g", "D"]
-run = "cd ~/Documents"
-desc = "Cd to ~/Documents"
+run = "cd ~/Dev"
+desc = "Cd to ~/Dev"

@@ -1,17 +1,14 @@
 [[plugin.deps]]
-use = "ourongxing/fast-enter"
-rev = "738356f"
-hash = "b209b5db91df69bdc6a4656cb8276cd9"
-
-[[plugin.deps]]
 use = "boydaihungst/mediainfo"
-rev = "436cb5f"
-hash = "144c0ac7a449fcab4e78e942eb41702c"
+rev = "49f5ab7"
+hash = "3b9ca58d8963d7213532d155340e0244"
 
 [[plugin.deps]]
 use = "orhnk/system-clipboard"
-rev = "efb8f03"
-hash = "9b8f2573da54334b04747e51556040cc"
+rev = "75a5330"
+hash = "2eca70f99d25c661e0a92000843d001e"
 
-[flavor]
-deps = []
+[[flavor.deps]]
+use = "matt-dong-123/base16"
+rev = "b02b7a8"
+hash = "fdb3a7d76f51c0a46bde55322ede9171"
